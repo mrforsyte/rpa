@@ -38,5 +38,6 @@
   <actions xsi:type="recorder:WhileAction" active="true" actionDetails="(&quot;&quot; = &quot;&quot;)" delay="0" leftOperandType="STRING" rightOperandType="STRING"/>
   <actions xsi:type="recorder:RetryAction" active="true" actionDetails="(max 0 times)" delay="0"/>
   <actions xsi:type="recorder:ForeachAction" active="true" actionDetails="(element) in (null)" delay="0" pointerName="element"/>
+  <actions xsi:type="recorder:WhileAction" active="true" actionDetails="(&quot;&quot; = &quot;&quot;)" delay="0" leftOperandType="STRING" rightOperandType="STRING"/>
   <settings/>
 </recorder:ActionFlow>
