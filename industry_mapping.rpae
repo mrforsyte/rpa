@@ -33,5 +33,7 @@
       </ifBlock>
     </actions>
   </actions>
+  <actions xsi:type="recorder:BaseNestedAction" active="true" actionDetails="Group" delay="0" comment="testing git&#xD;&#xA;testing git"/>
+  <actions xsi:type="recorder:BaseNestedAction" active="true" actionDetails="Group" delay="0"/>
   <settings/>
 </recorder:ActionFlow>
